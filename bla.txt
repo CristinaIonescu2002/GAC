@@ -1,0 +1,26 @@
+cha 
+d
+1 ender
+1 enter
+m enter
+
+pline
+w
+0.5 enter enter
+
+ha - hasura
+
+spline
+
+f
+r
+cat e dat*5
+
+de facut cotarile aferente
+3
+
+de verificat style
+
+mtext
+
+geometric tolerance
