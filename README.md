@@ -1,1 +1,1 @@
-# GAC
+# Computer assisted graphics
